@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common" target="1.8" />
-      <module name="multi-springboot" target="1.5" />
+      <module name="multi-springboot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
